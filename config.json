@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersncrypt",
+        "uuid": 206925,
+        "checksum": "lp025i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
